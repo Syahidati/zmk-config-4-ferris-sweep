@@ -12,7 +12,7 @@ manifest:
       revision: main
       import: app/west.yml
     - name: zmk-behavior-report
-      remote: nxtkb
+      remote: syahidati
       revision: main
       import: west.yml
   self:
